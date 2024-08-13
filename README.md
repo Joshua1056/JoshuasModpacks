@@ -1,2 +1,2 @@
-# Welcome to my github. ( I recommend downloading from curseforge or modrinth )
+# Welcome to my github. ( I recommend downloading from modrinth )
 My modpack files will be stored here 
